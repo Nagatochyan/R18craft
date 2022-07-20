@@ -5,6 +5,6 @@
 Nagato#5939(Github:Nagatochyan)<br>
 ![D735C72F-DE78-4FD0-8001-DAAD4452A63C](https://user-images.githubusercontent.com/94958239/179911125-92d91d5b-3536-4a2e-983f-f5cacd385881.png)<br>
 kani537#0001(Github:kani537)<br>
-Nagato#5939(Github:Nagatochyan)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;kani537#0001(Github:kani537)
+
 # 使い方
 3dsでFBIを起動しこのciaファイルを選択してインストール。
